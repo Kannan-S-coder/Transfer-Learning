@@ -3,9 +3,7 @@
 To Implement Transfer Learning for classification using VGG-19 architecture.
 ## Problem Statement and Dataset
 Develop an image classification model using transfer learning with the pre-trained VGG19 model.
-</br>
-</br>
-</br>
+
 
 ## DESIGN STEPS
 
@@ -94,19 +92,23 @@ def train_model(model, train_loader,test_loader,num_epochs=10):
 
 ## OUTPUT
 ### Training Loss, Validation Loss Vs Iteration Plot
-<img width="615" height="629" alt="image" src="https://github.com/user-attachments/assets/87341f5c-5719-454d-8cce-d74003a21e4a" />
+<img width="677" height="702" alt="image" src="https://github.com/user-attachments/assets/ae5d0a2d-d4f4-4a98-b1f5-d1e56bf157a5" />
+
 
 
 ### Confusion Matrix
-<img width="546" height="494" alt="image" src="https://github.com/user-attachments/assets/c7145763-06fa-4642-ab41-9ef5731ea8bf" />
+<img width="629" height="562" alt="image" src="https://github.com/user-attachments/assets/eea5b5ed-e4d8-4b9a-8a17-e043a8820c81" />
+
 
 
 ### Classification Report
-<img width="377" height="166" alt="image" src="https://github.com/user-attachments/assets/011f96cb-4235-42ef-8a53-f70c5d8a5378" />
+<img width="437" height="194" alt="image" src="https://github.com/user-attachments/assets/76f29cd8-561b-4b71-8a30-b5683196d41a" />
+
 
 
 ### New Sample Prediction
-<img width="272" height="324" alt="image" src="https://github.com/user-attachments/assets/851d5746-1b57-4ab0-84f3-b9ec82e82bff" />
+<img width="355" height="367" alt="image" src="https://github.com/user-attachments/assets/2ad9b54c-ac48-43ec-90c5-a3b80a50b15f" />
+
 
 
 ## RESULT
